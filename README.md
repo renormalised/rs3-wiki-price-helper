@@ -4,6 +4,8 @@ A Tampermonkey userscript for the RuneScape 3 Wiki Price Database that adds supp
 
 Lists appear beside the **Filter by name** bar, allowing you to quickly switch between different groups of items.
 
+![preview](preview.png)
+
 ## Features
 
 - Create and manage multiple favourite lists
