@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RS3 Wiki Price List Manager
 // @namespace    https://prices.runescape.wiki/
-// @version      2.5
+// @version      2.5.1
 // @description  Preset & Custom Favourite Lists for the RS3 Price Wiki
 // @homepageURL  https://github.com/renormalised/rs3-wiki-price-helper
 // @supportURL   https://github.com/renormalised/rs3-wiki-price-helper/issues
@@ -2456,7 +2456,6 @@
         const observer =
             new MutationObserver(() => {
                 createControls();
-                reorderRows();
             });
 
         observer.observe(
@@ -2467,19 +2466,16 @@
             }
         );
 
-        setTimeout(
-            reorderRows,
-            100
-        );
-
+        /*
+         * Apply the user's custom list order once,
+         * after the favourites table has rendered.
+         *
+         * After this, the Wiki's own table sorting is
+         * allowed to take over normally.
+         */
         setTimeout(
             reorderRows,
             500
-        );
-
-        setTimeout(
-            reorderRows,
-            1200
         );
     }
 
