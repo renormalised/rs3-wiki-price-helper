@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "name": "PVM Supplies",
+      "description": "Common PvM supplies",
+      "items": [
+        "Sailfish",
+        "Divine charge",
+        "Alchemical hydrix dust",
+        "Manuscript of Ful",
+        "Ful arrow",
+        "Soul rune",
+        "Saradomin brew flask (6)",
+        "Super restore flask (6)",
+        "Binding contract (ripper demon)"
+      ]
+    },
+    {
+      "name": "Token Watchlist",
+      "description": "Tokens worth keeping an eye on",
+      "items": [
+        "Ammonite Necklace token",
+        "Herald's Wand and Orb token",
+        "Frosty Cerberus breastplate token",
+        "Beach apron token",
+        "Catalyst teleport token",
+        "Catalyst Relic Hunter token",
+        "Christmas jumper token",
+        "Dolorous Witch Outfit token",
+        "Fortune cape token",
+        "Mallet token",
+        "Crystal ball token"
+      ]
+    },
+    {
+      "name": "Arch Materials",
+      "description": "Archaeology materials",
+      "items": [
+        "Ancient vis",
+        "Third Age iron",
+        "Blood of Orcus",
+        "Samite silk",
+        "Orthenglass",
+        "Soapstone",
+        "Vellum",
+        "White oak",
+        "Goldrune",
+        "Tyrian purple",
+        "Zarosian insignia",
+        "Imperial steel"
+      ]
+    }
+  ]
+}
