@@ -20,13 +20,21 @@ Lists appear beside the **Filter by name** bar, allowing you to quickly switch b
 
 ## Installation
 
+### Option 1 — Install from GitHub
+
+1. Install [Tampermonkey](https://www.tampermonkey.net/).
+2. Open the `RS3 Wiki Price List Switcher.user.js` file in this repository.
+3. Click **Raw**.
+4. Tampermonkey should open the script installation page.
+5. Click **Install**.
+
+### Option 2 — Install Manually
+
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
 2. Create a new userscript.
-3. Paste in `RS3 Wiki Price List Switcher.user.js`.
-4. Save the script.
-5. Open the [RS3 Wiki favourites page](https://prices.runescape.wiki/rs/favourites).
-
-The list controls will appear beside the **Filter by name** bar.
+3. Copy the contents of `RS3 Wiki Price List Switcher.user.js`.
+4. Paste it into the editor.
+5. Save the script.
 
 ## Lists
 
