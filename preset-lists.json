@@ -1,31 +1,107 @@
 {
-  "PVM Supplies": [
-    "Sailfish",
-    "Divine charge",
-    "Alchemical hydrix dust",
-    "Manuscript of Ful",
-    "Ful arrow",
-    "Soul rune",
-    "Saradomin brew flask (6)",
-    "Super restore flask (6)",
-    "Binding contract (ripper demon)"
-  ],
-  "Token Watchlist": [
-    "Ammonite Necklace token",
-    "Herald's Wand and Orb token",
-    "Frosty Cerberus breastplate token",
-    "Beach apron token",
-    "Catalyst teleport token",
-    "Catalyst Relic Hunter token"
-  ],
-  "Arch Materials": [
-    "Ancient vis",
-    "Third Age iron",
-    "Blood of Orcus",
-    "Samite silk",
-    "Orthenglass",
-    "Soapstone",
-    "Vellum",
-    "White oak"
-  ]
+    "Archaeology Materials": [
+        "Third Age iron",
+        "Zarosian insignia",
+        "Samite silk",
+        "Imperial steel",
+        "White oak",
+        "Goldrune",
+        "Orthenglass",
+        "Vellum",
+        "Cadmium red",
+        "Ancient vis",
+        "Tyrian purple",
+        "Leather scraps",
+        "Chaotic brimstone",
+        "Demonhide",
+        "Eye of Dagon",
+        "Hellfire metal",
+        "Keramos",
+        "White marble",
+        "Cobalt blue",
+        "Everlight silvthril",
+        "Star of Saradomin",
+        "Blood of Orcus",
+        "Soapstone",
+        "Stormguard steel",
+        "Wings of War",
+        "Dragon metal",
+        "Orgone",
+        "Animal furs",
+        "Armadylean yellow",
+        "Malachite green",
+        "Mark of the Kyzaj",
+        "Vulcanised rubber",
+        "Warforged bronze",
+        "Compass rose",
+        "Carbon black",
+        "Felt",
+        "Fossilised bone",
+        "Yu'biusk clay",
+        "Aetherium alloy",
+        "Quintessence"
+    ],
+  
+    "Ores & Bars": [
+        "Copper ore",
+        "Tin ore",
+        "Bronze bar",
+
+        "Iron ore",
+        "Iron bar",
+
+        "Steel bar",
+        "Coal",
+
+        "Mithril ore",
+        "Mithril bar",
+
+        "Adamantite ore",
+        "Luminite",
+        "Adamant bar",
+
+        "Runite ore",
+        "Rune bar",
+
+        "Orichalcite ore",
+        "Drakolith",
+        "Orikalkum bar",
+
+        "Necrite ore",
+        "Phasmatite",
+        "Necronium bar",
+
+        "Banite ore",
+        "Bane bar",
+
+        "Light animica",
+        "Dark animica",
+        "Elder rune bar",
+
+        "Novite ore",
+        "Bathus ore",
+        "Marmaros ore",
+        "Kratonium ore",
+        "Fractite ore",
+        "Zephyrium ore",
+        "Argonite ore",
+        "Katagon ore",
+        "Gorgonite ore",
+        "Promethium ore",
+        "Primal bar",
+
+        "Concentrated alloy bar",
+        "Enriched alloy bar",
+        "Immaculate alloy bar",
+        "Glorious bar",
+        
+        "Silver ore",
+        "Silver bar",
+
+        "Gold ore",
+        "Gold bar",
+        "Platinum ore",
+        "Platinum bar"
+    ]
+  }
 }
