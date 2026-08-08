@@ -75,8 +75,6 @@
     "Enriched alloy bar",
     "Immaculate alloy bar",
     "Glorious bar",
-    "Platinum ore",
-    "Platinum bar",
     "Novite ore",
     "Bathus ore",
     "Marmaros ore",
@@ -87,6 +85,8 @@
     "Katagon ore",
     "Gorgonite ore",
     "Promethium ore",
-    "Primal bar"
+    "Primal bar",
+    "Platinum ore",
+    "Platinum bar"
   ]
 }
